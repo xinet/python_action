@@ -45,3 +45,4 @@ jobs:
           spec: 'main.py'
           upload_exe_with_name: 'xinet_package'
           options: --onefile
+          
